@@ -10,12 +10,12 @@ const CONFIG = {
     github: "nikkylu",
     instagram: "nikkyluuu",
   },
-  // projects: [
-  //   {
-  //     name: `notion-blog`,
-  //     href: "https://github.com/nikkylu/notionblog.git",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `notion-blog`,
+      href: "https://github.com/nikkylu/notionblog.git",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Nikky's Blog",
