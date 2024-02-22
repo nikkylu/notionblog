@@ -6,16 +6,16 @@ const CONFIG = {
     role: "Philosophy and Computer Science @ NYU",
     bio: "Sometimes I put thoughts and feelings into words.",
     email: "nikkylu.zl@gmail.com",
-    linkedin: "https://www.linkedin.com/in/nikky-lu/",
+    linkedin: "nikky-lu",
     github: "nikkylu",
     instagram: "nikkyluuu",
   },
-  projects: [
-    {
-      name: `notion-blog`,
-      href: "https://github.com/nikkylu/notionblog.git",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `notion-blog`,
+  //     href: "https://github.com/nikkylu/notionblog.git",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "Nikky's Blog",
