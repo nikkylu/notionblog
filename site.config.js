@@ -10,12 +10,12 @@ const CONFIG = {
     github: "nikkylu",
     instagram: "nikkyluuu",
   },
-  projects: [
-    {
-      name: `notion-blog`,
-      href: "https://github.com/nikkylu/notionblog.git",
-    },
-  ],
+  // projects: [
+  //   {
+  //     name: `notion-blog`,
+  //     href: "https://github.com/nikkylu/notionblog.git",
+  //   },
+  // ],
   // blog setting (required)
   blog: {
     title: "Nikky's Blog",
@@ -23,10 +23,10 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://nikkylu-blog.vercel.app/",
-  since: 2024, // If leave this empty, current year will be used.
+  link: "https://morethan-log.vercel.app",
+  since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  // ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
