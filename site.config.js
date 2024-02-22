@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `notion-blog`,
+      name: `Nikky's Blog`,
       href: "https://github.com/nikkylu/notionblog.git",
     },
   ],
