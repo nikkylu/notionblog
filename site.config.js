@@ -3,10 +3,10 @@ const CONFIG = {
   profile: {
     name: "Nikky Lu",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Creater",
-    bio: "Logic takes you from A to B. Imagination takes you everywhere.",
+    role: "Philosophy and Computer Science @ NYU",
+    bio: "Sometimes I put thoughts and feelings into words.",
     email: "nikkylu.zl@gmail.com",
-    linkedin: "https://www.linkedin.com/in/nikky-lu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    linkedin: "https://www.linkedin.com/in/nikky-lu/",
     github: "nikkylu",
     instagram: "nikkyluuu",
   },
